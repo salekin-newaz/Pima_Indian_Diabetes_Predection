@@ -1,5 +1,5 @@
 # Pima_Indian_Diabetes_Predection
-Abstract: The diabetes dataset is a binary classification problem where it needs to be analysed whether a patient is suffering from the disease or not on the basis of many available features in the dataset. Different methods and procedures of cleaning the data, feature extraction, feature engineering and algorithms to predict the onset of diabetes are used based for diagnostic measure on Pima Indians Diabetes Dataset.
+#Abstract: The diabetes dataset is a binary classification problem where it needs to be analysed whether a patient is suffering from the disease or not on the basis of many available features in the dataset. Different methods and procedures of cleaning the data, feature extraction, feature engineering and algorithms to predict the onset of diabetes are used based for diagnostic measure on Pima Indians Diabetes Dataset.
 
 Keywords machine learning; Pima Indians Diabetes dataset; binary classification; features; feature extraction; feature engineering; support vector machine; MLP; neural netwroks; Decision tree; Linear regression heat map; pairplot; violin plot; feature importance.
 
